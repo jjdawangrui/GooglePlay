@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://billypc/svn/googlePlay/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/proxy
+https://billypc/svn/googlePlay
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f27a4dde-5d4c-fd48-9c83-a4ef969405b9
+
+ThreadPoolProxy.java
+file
+
+
+
+add
+
+ThreadPoolProxyFactory.java
+file
+
+
+
+add
+

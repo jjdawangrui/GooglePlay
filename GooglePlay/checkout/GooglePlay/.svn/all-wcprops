@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay
+END
+gradlew
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay/gradlew
+END
+settings.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay/settings.gradle
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay/.gitignore
+END
+gradlew.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay/gradlew.bat
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay/build.gradle
+END
+gradle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay/gradle.properties
+END

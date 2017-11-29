@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 47
+PagerSlidingTabStrip_Lib.iml
+build
+library.iml
+
+END

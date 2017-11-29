@@ -1,0 +1,18 @@
+package com.itheima.googleplay.manager;
+
+/**
+ * 创建者     伍碧林
+ * 版权       传智播客.黑马程序员
+ * 描述	      组合和下载相关的参数
+ */
+public class DownLoadInfo {
+    public String downloadUrl;
+    public String savePath;
+    public String packageName;
+
+    public int curState = DownLoadManager.STATE_UNDOWNLOAD;//默认是未下载
+    public long max;
+    public long progress;
+
+    public Runnable downLoadTask;
+}

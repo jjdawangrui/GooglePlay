@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/googlePlay/!svn/ver/63/trunk/GooglePlay/progressbtn
+END
+proguard-rules.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/googlePlay/!svn/ver/63/trunk/GooglePlay/progressbtn/proguard-rules.pro
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/googlePlay/!svn/ver/63/trunk/GooglePlay/progressbtn/.gitignore
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/googlePlay/!svn/ver/63/trunk/GooglePlay/progressbtn/build.gradle
+END
+progressbtn.iml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/googlePlay/!svn/ver/63/trunk/GooglePlay/progressbtn/progressbtn.iml
+END

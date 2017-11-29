@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/googlePlay/!svn/ver/3/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment
+END
+HomeFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/googlePlay/!svn/ver/8/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment/HomeFragment.java
+END
+CategoryFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/googlePlay/!svn/ver/8/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment/CategoryFragment.java
+END
+HotFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/googlePlay/!svn/ver/8/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment/HotFragment.java
+END
+RecommendFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/googlePlay/!svn/ver/8/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment/RecommendFragment.java
+END
+SubjectFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/googlePlay/!svn/ver/8/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment/SubjectFragment.java
+END
+GameFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/googlePlay/!svn/ver/8/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment/GameFragment.java
+END
+AppFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/googlePlay/!svn/ver/8/trunk/GooglePlay/app/src/main/java/com/itheima/googleplay/fragment/AppFragment.java
+END
